@@ -7,7 +7,7 @@ We have stripped the functionality down to the bare bones so that you can focus 
 
 ## Requirements
 
-This requires PHP 5.4+, and the scripts located in `./bin` have only been tested on a OS X.  They should work on any linux distribution as well.
+This requires at least PHP 5.4+, and has been tested with PHP 7.4.  The scripts located in `./bin` have only been tested on a Mac OS X (using BASH).  They should work on any linux distribution as well.  For a Windows machine, you will need to translate or run an emulated environment.
 
 ## Setup
 
